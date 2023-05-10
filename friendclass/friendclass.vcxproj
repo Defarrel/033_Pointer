@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{086b9e19-5a3d-4bcd-843f-793838a65120}</ProjectGuid>
-    <RootNamespace>pointer033</RootNamespace>
+    <ProjectGuid>{66713a3f-6252-47e0-b8b4-3d6102f07c79}</ProjectGuid>
+    <RootNamespace>friendclass</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pointer_033.cpp" />
+    <ClCompile Include="friendclass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
