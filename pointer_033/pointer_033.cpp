@@ -13,4 +13,5 @@ void mahasiswa::showNim() {
 
 int main(){
 	mahasiswa mhs{ 1 };
+	mhs.showNim();
 }
